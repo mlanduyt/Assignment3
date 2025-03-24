@@ -7,9 +7,9 @@ This file is meant as an addition to the finite element analysis held at: https:
 ## File Management
 
 1. Git clone 
-    '''bash
+    ```bash 
         git clone https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/
-    '''
+    ```
 
 2. Git clone or copy part1.ipynb into tutorial folder. This will execute the additional example to the assignment. 
 
