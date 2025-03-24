@@ -1,5 +1,20 @@
 # ME700-ASSIGNMENT3
 
+## GETTING STARTED
+
+This file is meant as an addition to the finite element analysis held at: https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/tree/main.
+
+## File Management
+
+1. Git clone 
+    '''bash
+        git clone https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/
+    '''
+
+2. Git clone or copy part1.ipynb into tutorial folder. This will execute the additional example to the assignment. 
+
+
+
 ## Set Up 
 
 Set up the conda environment and test that the code is functioning. Note: The environemnt name for all parts of Assignemnt 1 refers to the bisection method.  
