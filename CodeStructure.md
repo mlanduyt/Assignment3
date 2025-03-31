@@ -18,3 +18,6 @@ This code executes the remaining files in the following structure.
     2c. local_element.py determines internal forces and distributes loads. 
 
 4. visualize.py performs the post-processing aspects of the code. Displaying meshes and visualizing displacement magnitudes. This script generates 2D_meshs and gifs. 
+
+### Comments
+    Duplication between some scripts makes it confusing to follow functionality. For instance, the function name plot_mesh_2D is used both under visualize.py and pre_process_demo_helper.py. These functions are close but have minor differences. 
