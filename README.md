@@ -2,6 +2,8 @@
 
 ## GETTING STARTED
 
+The portions of Assignment 3 part 4 are located in the finite element analysis code, under the tutorial folder as 'implemented_example', 'mesh_refinement', and 'broken_example'. 
+
 The code overview of the FEA code provided for Assignment 3 part 3 is located under CodeStructure.md
 
 This file is meant as an addition to the finite element analysis held at: https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/tree/main.
