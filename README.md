@@ -6,7 +6,7 @@ The portions of Assignment 3 are located in the finite element analysis code.
 
 The code overview of the FEA code provided is located under CodeStructure.md
 
-# The portions for code implementation are as follows"
+# The portions for code implementation are as follows
 
     Comparison to an analytical solution:'implemented_example'
     
