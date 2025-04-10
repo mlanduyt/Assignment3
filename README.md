@@ -6,9 +6,12 @@ The portions of Assignment 3 are located in the finite element analysis code.
 
 The code overview of the FEA code provided is located under CodeStructure.md
 
-The portions for code implementation are as follows"
+# The portions for code implementation are as follows"
+
     Comparison to an analytical solution:'implemented_example'
+    
     Mesh Refinement: 'mesh_refinement'
+    
     Code Failure: 'broken_example'
 
 This file is meant as an addition to the finite element analysis held at: https://github.com/Lejeune-Lab-Graduate-Course-Materials/finite-element-analysis/tree/main.
